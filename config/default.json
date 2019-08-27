@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":" ",
+    "db":"mongodb+srv://vikash:espl123@myfirstcluster-bhteb.mongodb.net/authentication?retryWrites=true&w=majority"
+}
